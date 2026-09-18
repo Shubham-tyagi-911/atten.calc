@@ -1,3 +1,3 @@
 # atten.calc
-This is attendance calculator.
+This is attendance calculator. <br>
 Author - Shubham
